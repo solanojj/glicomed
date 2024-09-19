@@ -1,3 +1,19 @@
 <resources>
+    <!-- Títulos -->
     <string name="app_name">GlicoMed</string>
+
+    <string name="login_title">Login</string>
+
+
+    <!--  -Tela Login -->
+
+             <!-- Textos Gerais -->
+
+            <string name="login_user_text">Usuário</string>
+            <string name="login_password_text">Senha</string>
+            <string name="login_forgetpassword_text">Esqueci Minha Senha</string>
+
+             <!-- Botões -->
+            <string name="login_login_button">Entrar</string>
+            <string name="login_register_button">Cadastrar</string>
 </resources>
